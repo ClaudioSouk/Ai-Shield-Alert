@@ -22,8 +22,7 @@ This application provides a robust set of tools for detecting, analyzing, and ma
 ## Getting Started
 
 1. **Sign up for an account** - Create your account to access the dashboard and analytics
-2. **Set up email forwarding** - Forward suspicious emails to scan@aishieldalert.com from your registered email address
-3. **Configure alert rules** - Customize detection sensitivity based on your security needs in the dashboard
+2. **Configure alert rules** - Customize detection sensitivity based on your security needs in the dashboard
 4. **Start using the analyzer** - Paste suspicious email content into the analyzer for instant assessment
 
 ## Using the Analyzer
@@ -31,7 +30,6 @@ This application provides a robust set of tools for detecting, analyzing, and ma
 The phishing analyzer can be used in three ways:
 
 1. **Web Interface**: Paste email content directly into the analyzer on the dashboard
-2. **Email Forwarding**: Forward suspicious emails to scan@aishieldalert.com
 3. **File Upload**: Upload .eml, .msg, or .txt files containing emails for analysis
 
 ### Analysis Process
@@ -117,7 +115,7 @@ AI Shield Alert offers several subscription tiers:
 
 ## Support
 
-For support, please contact support@aishieldalert.com
+For support, please contact CSoukamneuth@gmail.com
 
 ## License
 
